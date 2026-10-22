@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitConflictDemo-Nanchong</string>
+    <string name="main_title">Git Conflict Demo</string>
+    <string name="first_button">Button 1</string>
+    <string name="second_button">Button 2</string>
+</resources>
